@@ -1,5 +1,5 @@
 <?php
-require_once(__DIR__.'/../bootstrap.php');
+
 
 //$s = new StudentsService();
 //print_r($s->getStudents());
